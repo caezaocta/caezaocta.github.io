@@ -1,0 +1,52 @@
+nav img {
+	width: 55px;
+	border-radius: 50%;
+	background-attachment: cover;
+	margin-top: 4px;
+}
+
+nav {
+	background-color: #9fedd7;
+}
+
+.slider h3,
+.slider h5,
+.clients h3
+{
+	text-shadow: 1px 1px 3px rgba(0, 0, 0, .5);
+}
+
+.about .container {
+	padding-top: 60px;
+	height: 500px;
+}
+
+
+.about .row p {
+	text-align: justify;
+} 
+
+.parallax-container {
+	height: 20%;
+}
+
+.parallax img {
+	filter: grayscale(1);
+	opacity: 0.5 !important;
+}
+
+.clients img {
+	max-width: 150px;
+	filter: drop-shadow(1px 1px 1px rgba(0, 0, 0, .8));
+}
+
+section, footer {
+	padding: 20px 0px;
+}
+
+
+
+/*section p {
+	text-align: justify;
+}*/
+
